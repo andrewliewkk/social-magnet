@@ -1,0 +1,1 @@
+java -cp "target/classes;lib/*" SocialMagnet/Application/SocialMagnetApplication

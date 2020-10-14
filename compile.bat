@@ -1,0 +1,1 @@
+javac -cp "src/main/java" -d target/classes src/main/java/SocialMagnet/Application/SocialMagnetApplication.java
