@@ -1,0 +1,548 @@
+# Created at 2020-04-08T20:26:22.743
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+
+# Created at 2020-04-08T20:26:23.209
+Unexpected IOException with stream: 1440
+
+# Created at 2020-04-08T20:26:23.215
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-08T20:26:23.221
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFarmland,testHarvest,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.272
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestFarmland,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.282
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.314
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriend,testInvalidUser,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.356
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:23.399
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriend,testInvalidUser,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.405
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriend,testSendToFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.437
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:23.551
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriend,testSendToFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.557
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriend,testYourself,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.591
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:23.639
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriend,testYourself,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.646
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriend,testSendRequest,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.681
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:23.725
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriend,testSendRequest,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.731
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriend,testGetFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.772
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriend,testGetFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.778
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriend,testAccept,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.813
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:23.885
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriend,testAccept,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.892
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriend,testRepeat,null,null,null
+
+
+# Created at 2020-04-08T20:26:23.930
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:23.996
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriend,testRepeat,null,null,null
+
+
+# Created at 2020-04-08T20:26:24.015
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:24.023
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestFriendFarm,null,null,null
+
+
+# Created at 2020-04-08T20:26:24.065
+Unexpected IOException with stream: DB Error!
+
+
+# Created at 2020-04-08T20:26:24.072
+Unexpected IOException with stream: Duplicate entry 'tester2' for key 'PRIMARY'
+
+
+# Created at 2020-04-08T20:26:24.125
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:24.158
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriendFarm,testSteal,null,null,null
+
+
+# Created at 2020-04-08T20:26:24.360
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriendFarm,testSteal,null,null,null
+
+
+# Created at 2020-04-08T20:26:24.367
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriendFarm,testSamePersonSteal,null,null,null
+
+
+# Created at 2020-04-08T20:26:24.542
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriendFarm,testSamePersonSteal,null,null,null
+
+
+# Created at 2020-04-08T20:26:24.549
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriendFarm,testManyPersonSteal,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.196
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriendFarm,testManyPersonSteal,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.242
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestFriendFarm,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.258
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestFriendWall,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.267
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriendWall,testGetFriendWall,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.299
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriendWall,testGetFriendWall,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.310
+Unexpected IOException: 5,1,SocialMagnet.Control.TestFriendWall,testGetCommonFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.368
+Unexpected IOException: 6,1,SocialMagnet.Control.TestFriendWall,testGetCommonFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.377
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestFriendWall,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.391
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestGift,null,null,null
+
+
+# Created at 2020-04-08T20:26:25.540
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:25.603
+Unexpected IOException with stream: A friend request is sent to tester3.
+
+
+# Created at 2020-04-08T20:26:25.657
+Unexpected IOException with stream: A friend request is sent to tester4.
+
+
+# Created at 2020-04-08T20:26:25.723
+Unexpected IOException with stream: A friend request is sent to tester5.
+
+
+# Created at 2020-04-08T20:26:25.807
+Unexpected IOException with stream: A friend request is sent to tester6.
+
+
+# Created at 2020-04-08T20:26:25.899
+Unexpected IOException with stream: A friend request is sent to tester7.
+
+
+# Created at 2020-04-08T20:26:25.941
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:26.033
+Unexpected IOException with stream: A friend request is sent to tester3.
+
+
+# Created at 2020-04-08T20:26:26.090
+Unexpected IOException with stream: A friend request is sent to tester4.
+
+
+# Created at 2020-04-08T20:26:26.148
+Unexpected IOException with stream: A friend request is sent to tester5.
+
+
+# Created at 2020-04-08T20:26:26.251
+Unexpected IOException with stream: A friend request is sent to tester6.
+
+
+# Created at 2020-04-08T20:26:26.279
+Unexpected IOException: 5,1,SocialMagnet.Control.TestGift,testSendToStranger,null,null,null
+
+
+# Created at 2020-04-08T20:26:26.334
+Unexpected IOException: 6,1,SocialMagnet.Control.TestGift,testSendToStranger,null,null,null
+
+
+# Created at 2020-04-08T20:26:26.342
+Unexpected IOException: 5,1,SocialMagnet.Control.TestGift,testSendToSixFriends,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.057
+Unexpected IOException with stream: Cannot send more than 5 gifts a day!
+
+
+# Created at 2020-04-08T20:26:27.117
+Unexpected IOException: 6,1,SocialMagnet.Control.TestGift,testSendToSixFriends,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.127
+Unexpected IOException: 5,1,SocialMagnet.Control.TestGift,testMultipleAccept,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.238
+Unexpected IOException: 6,1,SocialMagnet.Control.TestGift,testMultipleAccept,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.245
+Unexpected IOException: 5,1,SocialMagnet.Control.TestGift,testSendToSelf,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.295
+Unexpected IOException: 6,1,SocialMagnet.Control.TestGift,testSendToSelf,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.305
+Unexpected IOException: 5,1,SocialMagnet.Control.TestGift,testBaseFunction,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.420
+Unexpected IOException: 6,1,SocialMagnet.Control.TestGift,testBaseFunction,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.428
+Unexpected IOException: 5,1,SocialMagnet.Control.TestGift,testInvalidInput,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.473
+Unexpected IOException: 6,1,SocialMagnet.Control.TestGift,testInvalidInput,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.481
+Unexpected IOException: 5,1,SocialMagnet.Control.TestGift,testInvalidInputWithStranger,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.540
+Unexpected IOException: 6,1,SocialMagnet.Control.TestGift,testInvalidInputWithStranger,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.661
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestGift,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.671
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestInventory,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.679
+Unexpected IOException: 5,1,SocialMagnet.Control.TestInventory,testInventoryCheckWatermelon,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.696
+Unexpected IOException: 6,1,SocialMagnet.Control.TestInventory,testInventoryCheckWatermelon,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.705
+Unexpected IOException: 5,1,SocialMagnet.Control.TestInventory,testInventoryCheckPumpkin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.722
+Unexpected IOException: 6,1,SocialMagnet.Control.TestInventory,testInventoryCheckPumpkin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.729
+Unexpected IOException: 5,1,SocialMagnet.Control.TestInventory,testInventoryCheckPapaya,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.745
+Unexpected IOException: 6,1,SocialMagnet.Control.TestInventory,testInventoryCheckPapaya,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.753
+Unexpected IOException: 5,1,SocialMagnet.Control.TestInventory,testInventoryCheckSunflower,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.800
+Unexpected IOException: 6,1,SocialMagnet.Control.TestInventory,testInventoryCheckSunflower,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.808
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestInventory,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.819
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestLogin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.840
+Unexpected IOException: 5,1,SocialMagnet.Control.TestLogin,testSuccessfulLogin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.854
+Unexpected IOException: 6,1,SocialMagnet.Control.TestLogin,testSuccessfulLogin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.863
+Unexpected IOException: 5,1,SocialMagnet.Control.TestLogin,testUnsuccessfulLogin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.891
+Unexpected IOException: 6,1,SocialMagnet.Control.TestLogin,testUnsuccessfulLogin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.914
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestLogin,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.926
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestNewsFeed,null,null,null
+
+
+# Created at 2020-04-08T20:26:27.964
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:28.038
+Unexpected IOException: 5,1,SocialMagnet.Control.TestNewsFeed,testGetNewsFeed,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.060
+Unexpected IOException: 6,1,SocialMagnet.Control.TestNewsFeed,testGetNewsFeed,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.067
+Unexpected IOException: 5,1,SocialMagnet.Control.TestNewsFeed,testGetNewsFeedFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.084
+Unexpected IOException: 6,1,SocialMagnet.Control.TestNewsFeed,testGetNewsFeedFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.204
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestNewsFeed,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.215
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestRegistration,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.229
+Unexpected IOException: 5,1,SocialMagnet.Control.TestRegistration,testBadUserID,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.241
+Unexpected IOException: 6,1,SocialMagnet.Control.TestRegistration,testBadUserID,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.252
+Unexpected IOException: 5,1,SocialMagnet.Control.TestRegistration,testAddUser,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.277
+Unexpected IOException: 6,1,SocialMagnet.Control.TestRegistration,testAddUser,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.286
+Unexpected IOException: 5,1,SocialMagnet.Control.TestRegistration,testBlankFullName,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.297
+Unexpected IOException: 6,1,SocialMagnet.Control.TestRegistration,testBlankFullName,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.305
+Unexpected IOException: 5,1,SocialMagnet.Control.TestRegistration,testRepeated,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.319
+Unexpected IOException: 6,1,SocialMagnet.Control.TestRegistration,testRepeated,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.328
+Unexpected IOException: 5,1,SocialMagnet.Control.TestRegistration,testWrongCfmPass,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.338
+Unexpected IOException: 6,1,SocialMagnet.Control.TestRegistration,testWrongCfmPass,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.346
+Unexpected IOException: 5,1,SocialMagnet.Control.TestRegistration,testBlankUserID,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.358
+Unexpected IOException: 6,1,SocialMagnet.Control.TestRegistration,testBlankUserID,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.388
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestRegistration,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.400
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestStore,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.425
+Unexpected IOException: 5,1,SocialMagnet.Control.TestStore,testBuySeedNoGold,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.458
+Unexpected IOException: 6,1,SocialMagnet.Control.TestStore,testBuySeedNoGold,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.476
+Unexpected IOException: 5,1,SocialMagnet.Control.TestStore,testBuySeed,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.509
+Unexpected IOException: 6,1,SocialMagnet.Control.TestStore,testBuySeed,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.519
+Unexpected IOException: 5,1,SocialMagnet.Control.TestStore,testBuySeedInvalidQty,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.538
+Unexpected IOException: 6,1,SocialMagnet.Control.TestStore,testBuySeedInvalidQty,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.555
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestStore,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.566
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestThread,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.576
+Unexpected IOException: 5,1,SocialMagnet.Control.TestThread,testReply,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.598
+Unexpected IOException: 6,1,SocialMagnet.Control.TestThread,testReply,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.606
+Unexpected IOException: 5,1,SocialMagnet.Control.TestThread,testDislikePost,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.626
+Unexpected IOException: 6,1,SocialMagnet.Control.TestThread,testDislikePost,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.634
+Unexpected IOException: 5,1,SocialMagnet.Control.TestThread,testDeleteTag,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.661
+Unexpected IOException: 6,1,SocialMagnet.Control.TestThread,testDeleteTag,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.669
+Unexpected IOException: 5,1,SocialMagnet.Control.TestThread,testDeleteOwnPost,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.706
+Unexpected IOException: 6,1,SocialMagnet.Control.TestThread,testDeleteOwnPost,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.714
+Unexpected IOException: 5,1,SocialMagnet.Control.TestThread,testLikePost,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.736
+Unexpected IOException: 6,1,SocialMagnet.Control.TestThread,testLikePost,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.751
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestThread,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.759
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestWall,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.808
+Unexpected IOException with stream: A friend request is sent to tester2.
+
+
+# Created at 2020-04-08T20:26:28.895
+Unexpected IOException: 5,1,SocialMagnet.Control.TestWall,testGetWall,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.913
+Unexpected IOException: 6,1,SocialMagnet.Control.TestWall,testGetWall,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.921
+Unexpected IOException: 5,1,SocialMagnet.Control.TestWall,testWallFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:28.939
+Unexpected IOException: 6,1,SocialMagnet.Control.TestWall,testWallFriend,null,null,null
+
+
+# Created at 2020-04-08T20:26:29.027
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,SocialMagnet.Control.TestWall,null,null,null
+
+
